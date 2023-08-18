@@ -1,0 +1,5 @@
+makan siang
+makan malam
+makan pagi
+deploying an app
+key dari checklist: index-item?
